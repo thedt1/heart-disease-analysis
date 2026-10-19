@@ -4,7 +4,7 @@ Analysis of 918 patient records to find which factors are most associated with h
 
 **Live dashboard:** https://public.tableau.com/views/HeartDiseaseRiskFactors_17923659244460/HeartDiseaseRiskFactors 
 
-![Dashboard](dashboard.png)  
+![Dashboard](Dashboard.png)  
 
 ## Dataset
 Heart Failure Prediction dataset (Kaggle), 918 patients, about 55% with heart disease.
